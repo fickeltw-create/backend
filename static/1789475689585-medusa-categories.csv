@@ -1,0 +1,38 @@
+title,handle,parent_category,description
+Maison & Jardin,maison-jardin,,Tous les produits pour la maison et le jardin
+Meubles,meubles,Maison & Jardin,Meubles pour tous les espaces de la maison
+Lumière & Éclairage,lumiere-eclairage,Maison & Jardin,Solutions d'éclairage intérieur et extérieur
+Électroménager,electromenager,Maison & Jardin,Appareils électroménagers pour la maison
+Bricolage & Quincaillerie,bricolage-quincaillerie,Maison & Jardin,Outils et matériel de bricolage
+Construction & Immobilier,construction-immobilier,,Tous les produits liés à la construction et l'immobilier
+Machines pour le Bâtiment & la Construction,machines-batiment-construction,Construction & Immobilier,Machinerie spécialisée pour les chantiers
+Équipements & Fournitures Électriques,equipements-fournitures-electriques,Construction & Immobilier,Matériel électrique pour les installations
+Sûreté & sécurité,surete-securite,Construction & Immobilier,Solutions de sécurité pour bâtiments
+Énergies renouvelables,energies-renouvelables,Construction & Immobilier,Produits d'énergie verte et renouvelable
+Vêtements & Accessoires,vetements-accessoires,,Vêtements et accessoires de mode
+Électronique grand public,electronique-grand-public,,Appareils électroniques grand public
+Sports & Loisirs,sports-loisirs,,Produits de sport et loisirs
+Produits de beauté,produits-beaute,,Cosmétiques et produits de beauté
+Bijoux, Lunettes & Montres,bijoux-lunettes-montres,,Bijouterie, lunetterie et horlogerie
+Vêtements de sport & Plein air,vetements-sport-plein-air,Vêtements & Accessoires,Vêtements pour activités sportives
+Chaussures & Accessoires,chaussures-accessoires,Vêtements & Accessoires,Chaussures et accessoires de mode
+Bagages, Sacs, Étuis,bagages-sacs-etuis,Vêtements & Accessoires,Sacs et bagages pour tous usages
+Emballage & Impression,emballage-impression,,Services d'emballage et d'impression
+Parents, Enfants & Jouets,parents-enfants-jouets,,Produits pour parents, enfants et jouets
+Hygiène perso & Ménage,hygiene-perso-menage,,Produits d'hygiène personnelle et de ménage
+Médical & Santé,medical-sante,,Produits médicaux et de santé
+Cadeaux & Artisanat,cadeaux-artisanat,,Cadeaux et produits artisanaux
+Animalerie,animalerie,,Produits pour animaux domestiques
+Fournitures de bureau,fournitures-bureau,,Fournitures de bureau
+Machines industrielles,machines-industrielles,,Machinerie industrielle
+Équipements et machines commerciaux,equipements-machines-commerciaux,,Équipement pour commerces
+Pièces & Accessoires pour véhicules,pieces-accessoires-vehicules,,Pièces de rechange et accessoires automobiles
+Fournitures & Outils auto,fournitures-outils-auto,Pièces & Accessoires pour véhicules,Outils et fournitures automobiles
+Manutention,manutention,,Matériel de manutention
+Instrument & Équipement de test,instrument-equipement-test,,Matériel de mesure et de test
+Transmission d'énergie,transmission-energie,,Systèmes de transmission d'énergie
+Composants électroniques,composants-electroniques,,Composants électroniques pour circuits
+Véhicules et transport,vehicules-transport,,Véhicules et solutions de transport
+Agriculture, Aliments & Boissons,agriculture-aliments-boissons,,Produits agricoles, alimentaires et boissons
+Matières premières,matieres-premieres,,Matières premières industrielles
+Services de fabrication,services-fabrication,,Services de fabrication industrielle
